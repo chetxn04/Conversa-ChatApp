@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228002608616",
+    "project_id": "conversa-442cc",
+    "storage_bucket": "conversa-442cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228002608616:android:98fc94e76b1b5cb211e05d",
+        "android_client_info": {
+          "package_name": "com.example.chatapplicationnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228002608616-h56e7qc3a5rq21h4lcaqa4dqnirj8och.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDui6Ydf_RhwWBVxmQPs_v5Dnhyb3ULx7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228002608616-h56e7qc3a5rq21h4lcaqa4dqnirj8och.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
